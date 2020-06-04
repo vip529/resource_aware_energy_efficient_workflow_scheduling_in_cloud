@@ -15,25 +15,35 @@ M. S. Kumar, I. Gupta and P. K. Jana, "Resource-Aware Energy Efficient Workflow 
 * ##### then it contain 2-D communication cost array(adjacency matrix) to tell about task dependency for DAG creation.
 
 * ### Demo
-    * ![Example Task](/imgs/example_task_problem.jpg)
+    
+    * #### Task to schedule
+        * ![Example Task](/imgs/example_task_problem.jpg)
 
-    * ![Optimized Schedule of tasks](/imgs/example_scheduling_result.jpg)
+    * #### Implementation result of my code
+        * ![Optimized Schedule of tasks](/imgs/example_scheduling_result.jpg)
 
 #### Additional metrics used:
 
-* ![cost calculation](/imgs/cost_calculation.jpeg)
+* #### cost calculation:
+    * ![cost calculation](/imgs/cost_calculation.jpeg)
 
-* ![energy consumption BusyIdle](/imgs/energy_consumption_bi.jpeg)
+* #### energy consumption BusyIdle:
+    * ![energy consumption BusyIdle](/imgs/energy_consumption_bi.jpeg)
 
-* ![energy consumption VolatageFrequency](/imgs/energy_voltagefreq.jpeg)
+* #### energy consumption VolatageFrequency:
+    * ![energy consumption VolatageFrequency](/imgs/energy_voltagefreq.jpeg)
 
-* ![load balancing factor](/imgs/load_balancing_factor.jpeg)
+* #### load balancing factor
+    * ![load balancing factor](/imgs/load_balancing_factor.jpeg)
 
-* ![load balancing RTL](/imgs/load_balancing.jpeg)
+* #### load balancing RTL
+    * ![load balancing RTL](/imgs/load_balancing.jpeg)
 
-* ![vm utilisation](/imgs/vm_utilisation.jpeg)
+* #### vm utilisation
+    * ![vm utilisation](/imgs/vm_utilisation.jpeg)
 
-* ![speedup](/imgs/speed_up.jpeg)
+* #### speedup
+    * ![speedup](/imgs/speed_up.jpeg)
 
 
 
